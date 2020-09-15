@@ -8,6 +8,7 @@ win [amount_of_gold_needed]
 
 Note that each map must be a closed rectangle (enclosed using '#') from which the player cannot exit only through an exit tile. For example, the following map is not permitted:
 
+# Wrong example
 name wrong map
 win 1
 #.#.
