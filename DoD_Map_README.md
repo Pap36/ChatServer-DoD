@@ -2,6 +2,7 @@
 
 New maps can be added any time, by creating a text file in this folder. The file's format must be like so:
 
+# General example
 name Name_of_Map
 win amount_of_gold_needed
 map
