@@ -12,4 +12,4 @@ Possible moves: LOOK - displays a 5X5 grid which represents the surroundings of 
 
 When the game ends, 'WIN' or 'LOSE' is displayed in the command line letting the player know their result. After each move, 'SUCCESS' or 'FAIL' is printed letting the player know if their move was succsessfuly executed or not. Note that a wrongly inputted command, like 'LOK' instead of 'LOOK' causes the player to lose their turn. Also, the commands are not case sensitive.
 
-For information regarding the format of a map, read the README file in the Maps folder.
+For information regarding the format of a map, read the DoD_Map_README.txt file.
